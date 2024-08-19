@@ -1,5 +1,5 @@
 /** hi **/
-var app=new function(){this.name="Wolfgang",this.version="1",this.date="2024",this.folder="asset-v1/",this.looptime=6350,this.bpm=151,this.totalframe=304,this.nbpolo=7,this.nbloopbonus=[4],this.bonusloopA=!0,this.bonusendloopA=!0,this.recmaxloop=27,this.recminloop=2,this.recmintime=Math.round(this.looptime/1e3)*this.recminloop,this.spritepolo="polo-sprite.png",this.spritepicto="game-picto.png",this.colBck="#000000",this.col0="#000000",this.col1="#d9be00",this.col2="#000000",this.col3="#6e2e00",this.col4="#ffffff",this.animearray=[
+var app=new function(){this.name="Wolfgang",this.version="1",this.date="2024",this.folder="asset-v1/",this.looptime=6350,this.bpm=151,this.totalframe=304,this.nbpolo=7,this.nbloopbonus=[4],this.bonusloopA=!0,this.bonusendloopA=!0,this.recmaxloop=566,this.recminloop=2,this.recmintime=Math.round(this.looptime/1e3)*this.recminloop,this.spritepolo="polo-sprite.png",this.spritepicto="game-picto.png",this.colBck="#000000",this.col0="#000000",this.col1="#d9be00",this.col2="#000000",this.col3="#6e2e00",this.col4="#ffffff",this.animearray=[
 {name:"01_scout",color:"82499e",uniqsnd:!0},
 {name:"02_clippor",color:"82499e",uniqsnd:!0},
 {name:"03_cl4ym0r3",color:"82499e",uniqsnd:!0},
